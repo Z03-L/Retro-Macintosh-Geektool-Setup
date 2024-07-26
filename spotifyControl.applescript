@@ -1,6 +1,8 @@
 use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 
+-- script by jayylmao: https://github.com/jayylmao/Retro-Macintosh-Geektool-Setup/blob/master/spotifyControl.applescript
+
 tell application "Spotify"
 	-- if spotify is running, set the variable c to the current track
 	if it is running then
