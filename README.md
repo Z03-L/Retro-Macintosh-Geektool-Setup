@@ -13,6 +13,7 @@ This project is inspired by and based on work by [Jayylmao](https://github.com/j
 - Layout for the data widget
 - Weather thing
 - Spotify duration
+- New line if song name is too long
 
 ## Images Used
 - [Welcome.png](https://github.com/jayylmao/Retro-Macintosh-Geektool-Setup/blob/master/Widget%20Frames/Welcome.png)
